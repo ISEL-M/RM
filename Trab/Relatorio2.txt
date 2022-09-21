@@ -1,0 +1,4 @@
+por forma a possibilitar a execução das tarefas de forma assincrona utilizou-se um sistema onde as tarefas são executadas numa tread,
+assimo programa deve adicionar as tarefas a uma lista de execução permitindo que estas sejam executadas quando possivel.
+Utilizar este tipo de execução de tarefas permite que os processos possam ser parados a qualquer momento, limpando a lista de execução e 
+parando qualquer processo que se esteja a ser executado.
